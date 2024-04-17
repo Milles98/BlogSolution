@@ -32,6 +32,7 @@ public class DataInitializer
         {
             var user = new BlogUser
             {
+                //test
                 UserName = faker.Internet.UserName(),
                 Email = faker.Internet.Email(),
                 PasswordHash = Guid.NewGuid().ToString(), // This is just a placeholder. In a real application, you should use a proper password hashing function.
