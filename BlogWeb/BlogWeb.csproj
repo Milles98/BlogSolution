@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+    <PropertyGroup>
+        <TargetFramework>net8.0</TargetFramework>
+        <Nullable>enable</Nullable>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <UserSecretsId>aspnet-BlogWeb-08B2C2DC-9C64-453D-B496-2D31C5BB5724</UserSecretsId>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <None Update="app.db" CopyToOutputDirectory="PreserveNewest" ExcludeFromSingleFile="true"/>
+    </ItemGroup>
+
+    <ItemGroup>
+        <PackageReference Include="Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore" Version="8.0.3"/>
+        <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="8.0.3"/>
+        <PackageReference Include="Microsoft.AspNetCore.Identity.UI" Version="8.0.3"/>
+        <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="8.0.3" />
+        <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="8.0.3"/>
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\BlogLibrary\BlogLibrary.csproj" />
+    </ItemGroup>
+
+</Project>
