@@ -17,6 +17,8 @@ public class DataInitializer
     public void MigrateData()
     {
         _dbContext.Database.Migrate();
+        SeedBlogUsers();
+        _dbContext.SaveChanges();
     }
 
     private void SeedBlogUsers()

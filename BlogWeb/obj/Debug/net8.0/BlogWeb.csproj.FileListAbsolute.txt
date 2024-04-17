@@ -147,3 +147,5 @@ C:\Projects\Webbutveckling\Eget\BlogSolution\BlogWeb\obj\Debug\net8.0\refint\Blo
 C:\Projects\Webbutveckling\Eget\BlogSolution\BlogWeb\obj\Debug\net8.0\BlogWeb.pdb
 C:\Projects\Webbutveckling\Eget\BlogSolution\BlogWeb\obj\Debug\net8.0\BlogWeb.genruntimeconfig.cache
 C:\Projects\Webbutveckling\Eget\BlogSolution\BlogWeb\obj\Debug\net8.0\ref\BlogWeb.dll
+C:\Projects\Webbutveckling\Eget\BlogSolution\BlogWeb\bin\Debug\net8.0\Bogus.dll
+C:\Projects\Webbutveckling\Eget\BlogSolution\BlogWeb\obj\Debug\net8.0\BlogWeb.sourcelink.json

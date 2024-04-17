@@ -12,3 +12,4 @@ C:\Projects\Webbutveckling\Eget\BlogSolution\BlogLibrary\obj\Debug\net8.0\refint
 C:\Projects\Webbutveckling\Eget\BlogSolution\BlogLibrary\obj\Debug\net8.0\BlogLibrary.pdb
 C:\Projects\Webbutveckling\Eget\BlogSolution\BlogLibrary\obj\Debug\net8.0\BlogLibrary.genruntimeconfig.cache
 C:\Projects\Webbutveckling\Eget\BlogSolution\BlogLibrary\obj\Debug\net8.0\ref\BlogLibrary.dll
+C:\Projects\Webbutveckling\Eget\BlogSolution\BlogLibrary\obj\Debug\net8.0\BlogLibrary.sourcelink.json

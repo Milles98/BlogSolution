@@ -1,3 +1,4 @@
+using BlogLibrary.Data;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using BlogWeb.Data;
@@ -15,9 +16,14 @@ builder.Services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.Requ
     .AddEntityFrameworkStores<ApplicationDbContext>();
 builder.Services.AddRazorPages();
 
-
+builder.Services.AddTransient<DataInitializer>();
 
 var app = builder.Build();
+
+using (var scope = app.Services.CreateScope())
+{
+    scope.ServiceProvider.GetService<DataInitializer>()?.MigrateData();
+}
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
