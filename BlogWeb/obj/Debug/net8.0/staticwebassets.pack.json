@@ -5,16 +5,216 @@
       "PackagePath": "staticwebassets\\BlogWeb.bundle.scp.css"
     },
     {
-      "Id": "C:\\Projects\\Webbutveckling\\Eget\\BlogSolution\\BlogWeb\\wwwroot\\css\\site.css",
-      "PackagePath": "staticwebassets\\css\\site.css"
+      "Id": "C:\\Projects\\Webbutveckling\\Eget\\BlogSolution\\BlogWeb\\wwwroot\\Old(Delete)\\css\\site.css",
+      "PackagePath": "staticwebassets\\Old(Delete)\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Projects\\Webbutveckling\\Eget\\BlogSolution\\BlogWeb\\wwwroot\\Old(Delete)\\js\\site.js",
+      "PackagePath": "staticwebassets\\Old(Delete)\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Projects\\Webbutveckling\\Eget\\BlogSolution\\BlogWeb\\wwwroot\\css\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\css\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Projects\\Webbutveckling\\Eget\\BlogSolution\\BlogWeb\\wwwroot\\css\\main.css",
+      "PackagePath": "staticwebassets\\css\\main.css"
+    },
+    {
+      "Id": "C:\\Projects\\Webbutveckling\\Eget\\BlogSolution\\BlogWeb\\wwwroot\\css\\normalize.css",
+      "PackagePath": "staticwebassets\\css\\normalize.css"
     },
     {
       "Id": "C:\\Projects\\Webbutveckling\\Eget\\BlogSolution\\BlogWeb\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Projects\\Webbutveckling\\Eget\\BlogSolution\\BlogWeb\\wwwroot\\js\\site.js",
-      "PackagePath": "staticwebassets\\js\\site.js"
+      "Id": "C:\\Projects\\Webbutveckling\\Eget\\BlogSolution\\BlogWeb\\wwwroot\\fonts\\fonts.css",
+      "PackagePath": "staticwebassets\\fonts\\fonts.css"
+    },
+    {
+      "Id": "C:\\Projects\\Webbutveckling\\Eget\\BlogSolution\\BlogWeb\\wwwroot\\fonts\\futura_bold_font.woff",
+      "PackagePath": "staticwebassets\\fonts\\futura_bold_font.woff"
+    },
+    {
+      "Id": "C:\\Projects\\Webbutveckling\\Eget\\BlogSolution\\BlogWeb\\wwwroot\\fonts\\futura_bold_font.woff2",
+      "PackagePath": "staticwebassets\\fonts\\futura_bold_font.woff2"
+    },
+    {
+      "Id": "C:\\Projects\\Webbutveckling\\Eget\\BlogSolution\\BlogWeb\\wwwroot\\fonts\\futura_book_font.woff",
+      "PackagePath": "staticwebassets\\fonts\\futura_book_font.woff"
+    },
+    {
+      "Id": "C:\\Projects\\Webbutveckling\\Eget\\BlogSolution\\BlogWeb\\wwwroot\\fonts\\futura_book_font.woff2",
+      "PackagePath": "staticwebassets\\fonts\\futura_book_font.woff2"
+    },
+    {
+      "Id": "C:\\Projects\\Webbutveckling\\Eget\\BlogSolution\\BlogWeb\\wwwroot\\fonts\\futura_extra_black_font.woff",
+      "PackagePath": "staticwebassets\\fonts\\futura_extra_black_font.woff"
+    },
+    {
+      "Id": "C:\\Projects\\Webbutveckling\\Eget\\BlogSolution\\BlogWeb\\wwwroot\\fonts\\futura_extra_black_font.woff2",
+      "PackagePath": "staticwebassets\\fonts\\futura_extra_black_font.woff2"
+    },
+    {
+      "Id": "C:\\Projects\\Webbutveckling\\Eget\\BlogSolution\\BlogWeb\\wwwroot\\fonts\\futura_heavy_font.woff",
+      "PackagePath": "staticwebassets\\fonts\\futura_heavy_font.woff"
+    },
+    {
+      "Id": "C:\\Projects\\Webbutveckling\\Eget\\BlogSolution\\BlogWeb\\wwwroot\\fonts\\futura_heavy_font.woff2",
+      "PackagePath": "staticwebassets\\fonts\\futura_heavy_font.woff2"
+    },
+    {
+      "Id": "C:\\Projects\\Webbutveckling\\Eget\\BlogSolution\\BlogWeb\\wwwroot\\fonts\\futura_light_bt.woff",
+      "PackagePath": "staticwebassets\\fonts\\futura_light_bt.woff"
+    },
+    {
+      "Id": "C:\\Projects\\Webbutveckling\\Eget\\BlogSolution\\BlogWeb\\wwwroot\\fonts\\futura_light_bt.woff2",
+      "PackagePath": "staticwebassets\\fonts\\futura_light_bt.woff2"
+    },
+    {
+      "Id": "C:\\Projects\\Webbutveckling\\Eget\\BlogSolution\\BlogWeb\\wwwroot\\fonts\\futura_light_font.woff",
+      "PackagePath": "staticwebassets\\fonts\\futura_light_font.woff"
+    },
+    {
+      "Id": "C:\\Projects\\Webbutveckling\\Eget\\BlogSolution\\BlogWeb\\wwwroot\\fonts\\futura_light_font.woff2",
+      "PackagePath": "staticwebassets\\fonts\\futura_light_font.woff2"
+    },
+    {
+      "Id": "C:\\Projects\\Webbutveckling\\Eget\\BlogSolution\\BlogWeb\\wwwroot\\fonts\\futura_medium_bt.woff",
+      "PackagePath": "staticwebassets\\fonts\\futura_medium_bt.woff"
+    },
+    {
+      "Id": "C:\\Projects\\Webbutveckling\\Eget\\BlogSolution\\BlogWeb\\wwwroot\\fonts\\futura_medium_bt.woff2",
+      "PackagePath": "staticwebassets\\fonts\\futura_medium_bt.woff2"
+    },
+    {
+      "Id": "C:\\Projects\\Webbutveckling\\Eget\\BlogSolution\\BlogWeb\\wwwroot\\fonts\\futura_medium_condensed_bt.woff",
+      "PackagePath": "staticwebassets\\fonts\\futura_medium_condensed_bt.woff"
+    },
+    {
+      "Id": "C:\\Projects\\Webbutveckling\\Eget\\BlogSolution\\BlogWeb\\wwwroot\\fonts\\futura_medium_condensed_bt.woff2",
+      "PackagePath": "staticwebassets\\fonts\\futura_medium_condensed_bt.woff2"
+    },
+    {
+      "Id": "C:\\Projects\\Webbutveckling\\Eget\\BlogSolution\\BlogWeb\\wwwroot\\fonts\\generator_config.txt",
+      "PackagePath": "staticwebassets\\fonts\\generator_config.txt"
+    },
+    {
+      "Id": "C:\\Projects\\Webbutveckling\\Eget\\BlogSolution\\BlogWeb\\wwwroot\\icomoon\\Read Me.txt",
+      "PackagePath": "staticwebassets\\icomoon\\Read Me.txt"
+    },
+    {
+      "Id": "C:\\Projects\\Webbutveckling\\Eget\\BlogSolution\\BlogWeb\\wwwroot\\icomoon\\fonts\\icomoon.eot",
+      "PackagePath": "staticwebassets\\icomoon\\fonts\\icomoon.eot"
+    },
+    {
+      "Id": "C:\\Projects\\Webbutveckling\\Eget\\BlogSolution\\BlogWeb\\wwwroot\\icomoon\\fonts\\icomoon.svg",
+      "PackagePath": "staticwebassets\\icomoon\\fonts\\icomoon.svg"
+    },
+    {
+      "Id": "C:\\Projects\\Webbutveckling\\Eget\\BlogSolution\\BlogWeb\\wwwroot\\icomoon\\fonts\\icomoon.ttf",
+      "PackagePath": "staticwebassets\\icomoon\\fonts\\icomoon.ttf"
+    },
+    {
+      "Id": "C:\\Projects\\Webbutveckling\\Eget\\BlogSolution\\BlogWeb\\wwwroot\\icomoon\\fonts\\icomoon.woff",
+      "PackagePath": "staticwebassets\\icomoon\\fonts\\icomoon.woff"
+    },
+    {
+      "Id": "C:\\Projects\\Webbutveckling\\Eget\\BlogSolution\\BlogWeb\\wwwroot\\icomoon\\icomoon.css",
+      "PackagePath": "staticwebassets\\icomoon\\icomoon.css"
+    },
+    {
+      "Id": "C:\\Projects\\Webbutveckling\\Eget\\BlogSolution\\BlogWeb\\wwwroot\\icomoon\\selection.json",
+      "PackagePath": "staticwebassets\\icomoon\\selection.json"
+    },
+    {
+      "Id": "C:\\Projects\\Webbutveckling\\Eget\\BlogSolution\\BlogWeb\\wwwroot\\images\\ftpost.jpg",
+      "PackagePath": "staticwebassets\\images\\ftpost.jpg"
+    },
+    {
+      "Id": "C:\\Projects\\Webbutveckling\\Eget\\BlogSolution\\BlogWeb\\wwwroot\\images\\largeimg.jpg",
+      "PackagePath": "staticwebassets\\images\\largeimg.jpg"
+    },
+    {
+      "Id": "C:\\Projects\\Webbutveckling\\Eget\\BlogSolution\\BlogWeb\\wwwroot\\images\\mainlogo.png",
+      "PackagePath": "staticwebassets\\images\\mainlogo.png"
+    },
+    {
+      "Id": "C:\\Projects\\Webbutveckling\\Eget\\BlogSolution\\BlogWeb\\wwwroot\\images\\model.jpg",
+      "PackagePath": "staticwebassets\\images\\model.jpg"
+    },
+    {
+      "Id": "C:\\Projects\\Webbutveckling\\Eget\\BlogSolution\\BlogWeb\\wwwroot\\images\\models.jpg",
+      "PackagePath": "staticwebassets\\images\\models.jpg"
+    },
+    {
+      "Id": "C:\\Projects\\Webbutveckling\\Eget\\BlogSolution\\BlogWeb\\wwwroot\\images\\post1.jpg",
+      "PackagePath": "staticwebassets\\images\\post1.jpg"
+    },
+    {
+      "Id": "C:\\Projects\\Webbutveckling\\Eget\\BlogSolution\\BlogWeb\\wwwroot\\images\\post2.jpg",
+      "PackagePath": "staticwebassets\\images\\post2.jpg"
+    },
+    {
+      "Id": "C:\\Projects\\Webbutveckling\\Eget\\BlogSolution\\BlogWeb\\wwwroot\\images\\post3.jpg",
+      "PackagePath": "staticwebassets\\images\\post3.jpg"
+    },
+    {
+      "Id": "C:\\Projects\\Webbutveckling\\Eget\\BlogSolution\\BlogWeb\\wwwroot\\images\\postimg1.jpg",
+      "PackagePath": "staticwebassets\\images\\postimg1.jpg"
+    },
+    {
+      "Id": "C:\\Projects\\Webbutveckling\\Eget\\BlogSolution\\BlogWeb\\wwwroot\\images\\postimg2.jpg",
+      "PackagePath": "staticwebassets\\images\\postimg2.jpg"
+    },
+    {
+      "Id": "C:\\Projects\\Webbutveckling\\Eget\\BlogSolution\\BlogWeb\\wwwroot\\images\\postimg3.jpg",
+      "PackagePath": "staticwebassets\\images\\postimg3.jpg"
+    },
+    {
+      "Id": "C:\\Projects\\Webbutveckling\\Eget\\BlogSolution\\BlogWeb\\wwwroot\\images\\relationship1.jpg",
+      "PackagePath": "staticwebassets\\images\\relationship1.jpg"
+    },
+    {
+      "Id": "C:\\Projects\\Webbutveckling\\Eget\\BlogSolution\\BlogWeb\\wwwroot\\images\\relationship2.jpg",
+      "PackagePath": "staticwebassets\\images\\relationship2.jpg"
+    },
+    {
+      "Id": "C:\\Projects\\Webbutveckling\\Eget\\BlogSolution\\BlogWeb\\wwwroot\\images\\relationship3.jpg",
+      "PackagePath": "staticwebassets\\images\\relationship3.jpg"
+    },
+    {
+      "Id": "C:\\Projects\\Webbutveckling\\Eget\\BlogSolution\\BlogWeb\\wwwroot\\images\\subscribtionimg.jpg",
+      "PackagePath": "staticwebassets\\images\\subscribtionimg.jpg"
+    },
+    {
+      "Id": "C:\\Projects\\Webbutveckling\\Eget\\BlogSolution\\BlogWeb\\wwwroot\\images\\summary1.jpg",
+      "PackagePath": "staticwebassets\\images\\summary1.jpg"
+    },
+    {
+      "Id": "C:\\Projects\\Webbutveckling\\Eget\\BlogSolution\\BlogWeb\\wwwroot\\images\\summary2.jpg",
+      "PackagePath": "staticwebassets\\images\\summary2.jpg"
+    },
+    {
+      "Id": "C:\\Projects\\Webbutveckling\\Eget\\BlogSolution\\BlogWeb\\wwwroot\\images\\summary3.jpg",
+      "PackagePath": "staticwebassets\\images\\summary3.jpg"
+    },
+    {
+      "Id": "C:\\Projects\\Webbutveckling\\Eget\\BlogSolution\\BlogWeb\\wwwroot\\js\\jquery-1.11.0.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-1.11.0.min.js"
+    },
+    {
+      "Id": "C:\\Projects\\Webbutveckling\\Eget\\BlogSolution\\BlogWeb\\wwwroot\\js\\modernizr.js",
+      "PackagePath": "staticwebassets\\js\\modernizr.js"
+    },
+    {
+      "Id": "C:\\Projects\\Webbutveckling\\Eget\\BlogSolution\\BlogWeb\\wwwroot\\js\\plugins.js",
+      "PackagePath": "staticwebassets\\js\\plugins.js"
+    },
+    {
+      "Id": "C:\\Projects\\Webbutveckling\\Eget\\BlogSolution\\BlogWeb\\wwwroot\\js\\script.js",
+      "PackagePath": "staticwebassets\\js\\script.js"
     },
     {
       "Id": "C:\\Projects\\Webbutveckling\\Eget\\BlogSolution\\BlogWeb\\wwwroot\\lib\\bootstrap\\LICENSE",

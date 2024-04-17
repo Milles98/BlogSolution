@@ -1,52 +1,203 @@
 ﻿<!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-    <meta charset="utf-8"/>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-    <title>@ViewData["Title"] - BlogWeb</title>
-    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css"/>
-    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true"/>
-    <link rel="stylesheet" href="~/BlogWeb.styles.css" asp-append-version="true"/>
+    <title>Lifestyle - HTML Template for Magazine and LifeStyle Bloggers</title>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="format-detection" content="telephone=no">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="author" content="TemplatesJungle">
+    <meta name="keywords" content="magazine, blog, lifestyle">
+    <meta name="description" content="HTML Template for Magazine and LifeStyle Bloggers">
+
+    <link rel="stylesheet" type="text/css" href="css/normalize.css">
+    <link rel="stylesheet" type="text/css" href="icomoon/icomoon.css">
+    <link rel="stylesheet" type="text/css" href="fonts/fonts.css">
+    <link rel="stylesheet" type="text/css" href="css/main.css">
+
+    <!-- script
+    ================================================== -->
+    <script src="js/modernizr.js"></script>
+
 </head>
 <body>
-<header>
-    <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+
+<div id="entire-wrapper">
+    <header id="header">
         <div class="container">
-            <a class="navbar-brand" asp-area="" asp-page="/Index">BlogWeb</a>
-            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
-                    aria-expanded="false" aria-label="Toggle navigation">
-                <span class="navbar-toggler-icon"></span>
-            </button>
-            <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
-                <ul class="navbar-nav flex-grow-1">
-                    <li class="nav-item">
-                        <a class="nav-link text-dark" asp-area="" asp-page="/Index">Home</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link text-dark" asp-area="" asp-page="/Privacy">Privacy</a>
-                    </li>
-                </ul>
-                <partial name="_LoginPartial"/>
+            <div class="row">
+                <div class="header-wrap">
+                    <div class="top-left">
+                        <div class="main-logo">
+                            <a href="#">
+                                <img src="images/mainlogo.png" alt="logo">
+                            </a>
+                        </div><!--main-logo-->
+                        <div class="social-links">
+                            <ul>
+                                <li>
+                                    <a href="#">
+                                        <i class="icon icon-facebook"></i>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="#">
+                                        <i class="icon icon-skype"></i>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="#">
+                                        <i class="icon icon-instagram"></i>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="#">
+                                        <i class="icon icon-twitter"></i>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="#">
+                                        <i class="icon icon-linkedin-with-circle"></i>
+                                    </a>
+                                </li>
+
+                            </ul>
+                        </div><!--social-links-->
+                    </div><!--top-left-->
+                    <nav id="navbar" class="header-nav">
+                        <div class="header-menu">
+                            <ul class="nav-menu nav-hvr-effect">
+                                <li class="nav-item">
+                                    <a href="index.html" class="nav-link" data-hover="Home">Home</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a href="#about-page" class="nav-link" data-hover="About">About</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a href="#popular-stories" class="nav-link" data-hover="Stories">Stories</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a href="#feat-post" class="nav-link" data-hover="Post">Post</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a href="#health-tips" data-hover="Health" class="nav-link">Health</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a href="#love-tips" data-hover="Love" class="nav-link">Love</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a href="#featured-post" data-hover="Feat. Post" class="nav-link">feat. Post</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a href="https://templatesjungle.gumroad.com/l/lifestyle-magazine-html-template" data-hover="GET PRO" class="nav-link"> GET PRO </a>
+                                </li>
+                            </ul>
+
+                            <div class="hamburger">
+                                <span class="bar"></span>
+                                <span class="bar"></span>
+                                <span class="bar"></span>
+                            </div>
+
+                        </div><!--header-menu-->
+                    </nav>
+                </div><!--header-wrap-->
             </div>
-        </div>
-    </nav>
-</header>
-<div class="container">
-    <main role="main" class="pb-3">
-        @RenderBody()
-    </main>
+        </div><!--container-->
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
 </div>
 
-<footer class="border-top footer text-muted">
+<footer id="footer">
     <div class="container">
-        &copy; 2024 - BlogWeb - <a asp-area="" asp-page="/Privacy">Privacy</a>
+        <div class="footer-content">
+            <div class="footer-menu social-media">
+                <ul>
+                    <li><a href="#">facebook</a></li>
+                    <li><a href="#">twitter</a></li>
+                    <li><a href="#">instagram</a></li>
+                </ul>
+            </div>
+
+            <div class="footer-menu">
+                <ul>
+                    <li><a href="#">About Us</a></li>
+                    <li><a href="#">Blog</a></li>
+                    <li><a href="#">Policy</a></li>
+                    <li><a href="#">Term</a></li>
+                    <li><a href="#">Contact</a></li>
+                </ul>
+            </div>
+
+            <div class="footer-menu">
+                <ul>
+                    <li><a href="#">About Us</a></li>
+                    <li><a href="#">Blog</a></li>
+                    <li><a href="#">Policy</a></li>
+                    <li><a href="#">Term</a></li>
+                    <li><a href="#">Contact</a></li>
+                </ul>
+            </div>
+
+            <div class="footer-menu">
+                <ul>
+                    <li><a href="#">About Us</a></li>
+                    <li><a href="#">Blog</a></li>
+                    <li><a href="#">Policy</a></li>
+                    <li><a href="#">Term</a></li>
+                    <li><a href="#">Contact</a></li>
+                </ul>
+            </div>
+
+            <div class="footer-menu">
+                <ul class="address">
+                    <li><a href="#">contact@yourcompany.com</a></li>
+                    <li>15Th Street Avenue, New York, USA</li>
+                    <li>011-554-8798-6556</li>
+                </ul>
+                <div class="social-links">
+                    <ul>
+                        <li>
+                            <a href="#">
+                                <i class="icon icon-facebook"></i>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#"><i class="icon icon-twitter"></i>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#"><i class="icon icon-instagram"></i>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#"><i class="icon icon-skype"></i>
+                            </a>
+                        </li>
+                    </ul>
+                </div><!--social-links-->
+            </div>
+        </div><!--footer-content-->
+        <div class="footer-bottom">
+            <div class="col-md-6">
+                <p>© Copyright 2023 LifeStyle. All rights reserved. </p>
+            </div>
+            <div class="col-md-6 text-start text-md-end">
+                <p>Free HTML Template by <a href="https://templatesjungle.com" target="_blank">TemplatesJungle</a> Distribution By <a href="https://themewagon.com">ThemeWagon</a></p>
+            </div>
+        </div>
     </div>
 </footer>
 
-<script src="~/lib/jquery/dist/jquery.min.js"></script>
-<script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
-<script src="~/js/site.js" asp-append-version="true"></script>
+<script src="js/jquery-1.11.0.min.js"></script>
+<script type="text/javascript" src="js/script.js"></script>
 
-@await RenderSectionAsync("Scripts", required: false)
+    @await RenderSectionAsync("Scripts", required: false)
 </body>
 </html>

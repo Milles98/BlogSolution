@@ -149,3 +149,4 @@ C:\Projects\Webbutveckling\Eget\BlogSolution\BlogWeb\obj\Debug\net8.0\BlogWeb.ge
 C:\Projects\Webbutveckling\Eget\BlogSolution\BlogWeb\obj\Debug\net8.0\ref\BlogWeb.dll
 C:\Projects\Webbutveckling\Eget\BlogSolution\BlogWeb\bin\Debug\net8.0\Bogus.dll
 C:\Projects\Webbutveckling\Eget\BlogSolution\BlogWeb\obj\Debug\net8.0\BlogWeb.sourcelink.json
+C:\Projects\Webbutveckling\Eget\BlogSolution\BlogWeb\obj\Debug\net8.0\scopedcss\Pages\Shared\_LayoutCopy.cshtml.rz.scp.css

@@ -23,4 +23,8 @@
       <ProjectReference Include="..\BlogLibrary\BlogLibrary.csproj" />
     </ItemGroup>
 
+    <ItemGroup>
+      <Folder Include="wwwroot\Old(Delete)\" />
+    </ItemGroup>
+
 </Project>
