@@ -1,4 +1,5 @@
-﻿using BlogLibrary.Models;
+﻿using BlogLibrary.Data;
+using BlogLibrary.Models;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 
@@ -12,4 +13,5 @@ public class ApplicationDbContext : IdentityDbContext
     }
     
     public DbSet<BlogUser> BlogUsers { get; set; } = null!;
+    public DbSet<BlogPost> BlogPosts { get; set; } = null!;
 }

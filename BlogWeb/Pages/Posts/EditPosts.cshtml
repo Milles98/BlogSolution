@@ -1,0 +1,19 @@
+﻿@page
+@model EditPosts
+@{
+ViewData["Title"] = "Edit Post";
+}
+
+<h2>Edit Post</h2>
+
+<form method="post">
+    <div class="form-group">
+        <label for="title">Title</label>
+        <input type="text" class="form-control" id="title" name="Title" value="@Model.Post.Title" required />
+    </div>
+    <div class="form-group">
+        <label for="content">Content</label>
+        <textarea class="form-control" id="content" name="Content" required>@Model.Post.Content</textarea>
+    </div>
+    <button type="submit" class="btn btn-primary">Update</button>
+</form>

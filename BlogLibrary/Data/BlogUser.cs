@@ -1,4 +1,6 @@
-﻿namespace BlogLibrary.Models;
+﻿using BlogLibrary.Data;
+
+namespace BlogLibrary.Models;
 
 public class BlogUser
 {
@@ -13,4 +15,5 @@ public class BlogUser
     public bool IsModerator { get; set; }
     public bool IsEnabled { get; set; }
     public DateTime MemberSince { get; set; }
+    public List<BlogPost> Posts { get; set; } = new();
 }
